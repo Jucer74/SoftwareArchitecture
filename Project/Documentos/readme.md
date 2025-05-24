@@ -23,7 +23,7 @@ Asignar un nombre a su proyecto y con este Nombrar los documentos.
     - Scenarios Identificados
     - Vista Logica (Systema- Diagrama Actividades / Diagrama que represente el Sistema Completo)
     - Vista de Implementacion (Componentes por paquetes)
-    - Vista Procesos
+    - Vista Procesos (Diagrama de Secuencia)
     - Vista Fisica (Diagrama de AWS - Draw.io)
         * (Descripcion de la Vista = Que estoy Viendo)
         * Catalogo de Elementos (Que sisgnica cada elemento y que pael cumple en la vista)
