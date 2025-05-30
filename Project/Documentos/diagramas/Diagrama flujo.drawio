@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.1">
+  <diagram name="Página-1" id="gG_FVV4c-D3sduffwmN5">
+    <mxGraphModel dx="1267" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YglNM6CUZ0ENc6Br62hS-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YglNM6CUZ0ENc6Br62hS-3" target="YglNM6CUZ0ENc6Br62hS-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YglNM6CUZ0ENc6Br62hS-3" value="Cliente (wer/app)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="100" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YglNM6CUZ0ENc6Br62hS-8" value="servicio de promociones" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="270" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YglNM6CUZ0ENc6Br62hS-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="270" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YglNM6CUZ0ENc6Br62hS-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YglNM6CUZ0ENc6Br62hS-11" target="YglNM6CUZ0ENc6Br62hS-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YglNM6CUZ0ENc6Br62hS-11" value="servicios de catalogo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="180" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YglNM6CUZ0ENc6Br62hS-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YglNM6CUZ0ENc6Br62hS-12" target="YglNM6CUZ0ENc6Br62hS-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YglNM6CUZ0ENc6Br62hS-12" value="servicio de pedidos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="180" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YglNM6CUZ0ENc6Br62hS-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YglNM6CUZ0ENc6Br62hS-13" target="YglNM6CUZ0ENc6Br62hS-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YglNM6CUZ0ENc6Br62hS-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YglNM6CUZ0ENc6Br62hS-13" target="YglNM6CUZ0ENc6Br62hS-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YglNM6CUZ0ENc6Br62hS-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YglNM6CUZ0ENc6Br62hS-13" target="YglNM6CUZ0ENc6Br62hS-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YglNM6CUZ0ENc6Br62hS-13" value="servicios de usuarios" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="180" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YglNM6CUZ0ENc6Br62hS-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YglNM6CUZ0ENc6Br62hS-14" target="YglNM6CUZ0ENc6Br62hS-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YglNM6CUZ0ENc6Br62hS-14" value="Api gatawey" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="100" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YglNM6CUZ0ENc6Br62hS-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YglNM6CUZ0ENc6Br62hS-15" target="YglNM6CUZ0ENc6Br62hS-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YglNM6CUZ0ENc6Br62hS-15" value="servicios de entregas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="350" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YglNM6CUZ0ENc6Br62hS-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YglNM6CUZ0ENc6Br62hS-16" target="YglNM6CUZ0ENc6Br62hS-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YglNM6CUZ0ENc6Br62hS-16" value="Servicios de pagos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="270" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YglNM6CUZ0ENc6Br62hS-26" value="integración con geolocalización" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="420" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
